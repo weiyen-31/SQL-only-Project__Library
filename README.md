@@ -36,6 +36,7 @@ Note: This project focuses on Exploratory Data Analysis (EDA) only, and does not
     
 ### Genre Popularity Analysis
   - Historical Fiction, Fiction and Romance had more borrowing activity than others.
+  - Adventure Fiction and Magical Realism is classified as "very low" class
   - Average borrowing duration is relatively similar across genres.
   - Genres in high demand don't necessarily correspond to longer borrowing periods.
     
@@ -51,3 +52,9 @@ Note: This project focuses on Exploratory Data Analysis (EDA) only, and does not
 - Allocate more acquisition budget to high-demand genres such as Historical Fiction, Fiction, and Romance.
 - Increase the number of copies available for popular genres to reduce waiting times.
 - Promote the less frequently borrowed genres through recommendations or reading campaigns to diversify borrowing patterns.
+
+## Tools Used
+SQL (CTE, JOIN, Aggregation)
+Window Functions (NTILE)
+CASE WHEN classification logic
+Date calculations (DATEDIFF)
