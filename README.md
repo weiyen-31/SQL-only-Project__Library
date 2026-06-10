@@ -54,7 +54,7 @@ Note: This project focuses on Exploratory Data Analysis (EDA) only, and does not
 - Promote the less frequently borrowed genres through recommendations or reading campaigns to diversify borrowing patterns.
 
 ## Tools Used
-SQL (CTE, JOIN, Aggregation)
-Window Functions (NTILE)
-CASE WHEN classification logic
-Date calculations (DATEDIFF)
+- SQL (CTE, JOIN, Aggregation)
+- Window Functions (NTILE)
+- CASE WHEN classification logic
+- Date calculations (DATEDIFF)
