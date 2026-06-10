@@ -31,8 +31,23 @@ Note: This project focuses on Exploratory Data Analysis (EDA) only, and does not
 
 ## Key Result
 ### Overdue Borrowing Behavior
+  - A subset of members consistently exceed due dates by significant margins
+  - Late returns are concentrated in a small group of users, rather than being evenly distributed
+    
 ### Genre Popularity Analysis
-
+  - Historical Fiction, Fiction and Romance had more borrowing activity than others.
+  - Average borrowing duration is relatively similar across genres.
+  - Genres in high demand don't necessarily correspond to longer borrowing periods.
+    
 ## Insights
-
+- Overdue severity classification helps identify problematic borrowing behavior
+- Severe overdue cases indicating some borrowers may require additional return reminders or monitoring.
+- Genre popularity is uneven, with a few genres accounting for most borrowing activity
+- Reader preferences are concentrated in a few genres, indicating stronger demand for fiction-related content.
+  
 ## Recommendations
+- Implement automated due-date reminders to reduce overdue cases.
+- Monitor borrowers with repeated late-return behavior and provide targeted notifications.
+- Allocate more acquisition budget to high-demand genres such as Historical Fiction, Fiction, and Romance.
+- Increase the number of copies available for popular genres to reduce waiting times.
+- Promote the less frequently borrowed genres through recommendations or reading campaigns to diversify borrowing patterns.
